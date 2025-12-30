@@ -1,0 +1,2 @@
+- [x] Fix duplicate POST routes in backend/routes/projectRoutes.js - change first POST to GET for fetching projects
+- [x] Test project creation and deletion functionality
